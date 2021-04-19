@@ -55,6 +55,7 @@ Organisation mentors should look to exercise the knowledge we’ve covered in th
 * [List of katas](http://codingdojo.org/kata/)
 * [Michael Feathers’ Working Effectively with Legacy Code](https://www.amazon.co.uk/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) if you want a book to read
 * [Uncle Bob’s Bowling Game Kata](http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata) page has a Powerpoint presentation which shows step by step how he approaches solving the problem. Note his to-do list in the top left corner.
+* [INVEST in Good Stories, and SMART Tasks](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) explains some important qualities of user stories (relevant to the requirements exercise from the boot camp)
  
 ## Slides
 
@@ -71,8 +72,6 @@ The slides can be viewed from the link at the top of the repository.
 * Extract method refactor
 * Adapting duplicated code
 * Removing duplication
-* Setting up CI
-* Branching and creating Pull Requests
 
 # Boot Camp Summary
 
@@ -101,30 +100,6 @@ The slides can be viewed from the link at the top of the repository.
 * How to fix
 * Why duplication happens
 * Exercise: refactor away duplication
-
-<!--- 
-
-## Continuous Integration
-
-* What is CI
-* Why is CI important
-* Demo of how CI can be applied to a project (Travis or similar against public repo)
-* CI practical—setting up Travis or similar on own repo?
-
-## More on source control
-
-* Branching
-* Pull requests
-* Trunk vs branch development
-
-# How the internet works
-
-* Hostnames, IP, DNS
-* Networking
-* Physical infrastructure
-* HTTP
-
---->
 
 # Briefing for organisation mentors
 
